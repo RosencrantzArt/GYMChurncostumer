@@ -1,111 +1,121 @@
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Predictive Analysis Application
 
-## Template Instructions
+## Overview
 
-Welcome,
+This project is a predictive analytics application designed to forecast user behavior based on structured data from Kaggle. The goal is to build a machine learning model that provides actionable insights through data analysis, visualization, and model predictions via a user-friendly dashboard.
 
-This is the Code Institute student template for the bring your own data project option in Predictive Analytics. We have preinstalled all of the tools you need to get started. It's perfectly okay to use this template as the basis for your project submissions. Click the `Use this template` button above to get started.
+## Table of Contents
 
-You can safely delete the Template Instructions section of this README.md file and modify the remaining paragraphs for your own project. Please do read the Template Instructions at least once, though! It contains some important information about the IDE and the extensions we use.
+- Business Understanding
+- Dataset
+- Machine Learning Pipeline
+- Data Visualization
+- Dashboard
+- Technical Implementation
+- Deployment
+- Project Structure
+- How to Run the Project
+- Evaluation Metrics
+- Conclusion
 
-## How to use this repo
+## Business Understanding
 
-1. Use this template to create your GitHub project repo
+The purpose of this project is to analyze user interactions and predict potential future purchases. This aligns with business goals such as increasing customer retention, optimizing marketing strategies, and improving sales conversions.
 
-1. In your newly created repo click on the green Code button. 
+## Dataset
 
-1. Then, from the Codespaces tab, click Create codespace on main.
+**Source:** Kaggle dataset  
+**Description:** The dataset includes user behavior data with features such as browsing history, time spent on pages, and past purchases.
 
-1. Wait for the workspace to open. This can take a few minutes.
+### Preprocessing Steps
 
-1. Open a new terminal and `pip3 install -r requirements.txt`
+- Handling missing values
+- Feature engineering
+- Data normalization
 
-1. Open the jupyter_notebooks directory, and click on the notebook you want to open.
+## Machine Learning Pipeline
 
-1. Click the kernel button and choose Python Environments.
+- **Data Preprocessing:** Cleaning, encoding categorical variables, feature scaling.
+- **Feature Selection:** Identifying key variables influencing predictions.
+- **Model Selection:** Using regression or classification models based on business needs.
+- **Training & Hyperparameter Tuning:** Optimizing model performance.
+- **Evaluation:** Assessing model accuracy and reliability.
 
-Note that the kernel says Python 3.12.1 as it inherits from the workspace, so it will be Python-3.12.1 as installed by Codespaces. To confirm this, you can use `! python --version` in a notebook code cell.
+## Data Visualization
 
-## Cloud IDE Reminders
+Key insights will be represented using:
 
-To log into the Heroku toolbelt CLI:
+- Correlation heatmaps
+- Distribution plots
+- Feature importance graphs
+- Actual vs. Predicted plots
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Dashboard
 
+Built using **Streamlit**, the dashboard provides
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- An interactive interface for data exploration
+- A visualization of key findings
+- Model predictions with confidence scores
 
+### Dashboard Pages
 
-## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size and to have a shorter model training time. If you are doing an image recognition project, we suggest you consider using an image shape that is 100px × 100px or 50px × 50px, to ensure the model meets the performance requirement but is smaller than 100Mb for a smoother push to GitHub. A reasonably sized image set is ~5000 images, but you can choose ~10000 lines for numeric or textual data. 
+- **Home:** Overview of project goals and dataset summary.
+- **Exploratory Data Analysis (EDA):** Interactive visualizations and insights.
+- **Predictions:** User input section for generating model-based predictions.
 
+## Technical Implementation
 
-## Business Requirements
-* Describe your business requirements
-
-
-## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
-
-
-## The rationale to map the business requirements to the Data Visualizations and ML tasks
-* List your business requirements and a rationale to map them to the Data Visualizations and ML tasks
-
-
-## ML Business Case
-* In the previous bullet, you potentially visualized an ML task to answer a business requirement. You should frame the business case using the method we covered in the course 
-
-
-## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
-
-
-
-## Unfixed Bugs
-* You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+- **Programming Language:** Python  
+- **Libraries Used:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Streamlit  
+- **Version Control:** Git & GitHub  
 
 ## Deployment
-### Heroku
 
-* The App live link is: https://YOUR_APP_NAME.herokuapp.com/ 
-* Set the runtime.txt Python version to a [Heroku-24](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
-* The project was deployed to Heroku using the following steps.
+- **Cloud Platform:** Heroku  
+- **Required Files:**
+  - `Procfile`
+  - `requirements.txt`
+  - `runtime.txt`
+  - `setup.sh`
+  
+## Project Structure
 
-1. Log in to Heroku and create an App
-2. At the Deploy tab, select GitHub as the deployment method.
-3. Select your repository name and click Search. Once it is found, click Connect.
-4. Select the branch you want to deploy, then click Deploy Branch.
-5. The deployment process should happen smoothly if all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
-6. If the slug size is too large then add large files not required for the app to the .slugignore file.
+project_root/
+│── data/
+│── notebooks/
+│── src/
+│   ├── data_processing.py
+│   ├── model_training.py
+│   ├── visualization.py
+│── app/
+│   ├── Home.py
+│   ├── EDA.py
+│   ├── Predictions.py
+│── README.md
+│── requirements.txt
+│── Procfile
 
+## How to Run the Project
 
-## Main Data Analysis and Machine Learning Libraries
-* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+Clone the repository:
+sh
+git clone your-repository-url-here
+cd project_root
 
+Install dependencies:
+sh
+pip install -r requirements.txt
 
-## Credits 
+Run the Streamlit app:
+sh.
+streamlit run app/Home.py
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
+## Evaluation Metrics
 
-### Content 
+- **Regression Models:** R² score, RMSE  
+- **Classification Models:** Confusion matrix, Precision, Recall, F1-score  
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page were taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+## Conclusion
 
-### Media
-
-- The photos used on the home and sign-up page are from This Open-Source site
-- The images used for the gallery page were taken from this other open-source site
-
-
-
-## Acknowledgements (optional)
-* Thank the people who provided support through this project.
-
+This project successfully applies machine learning techniques to predict user behavior based on Kaggle data, supporting data-driven decision-making for businesses
