@@ -1,0 +1,501 @@
+UserID,Age,Gender,MembershipType,WorkoutDuration,CaloriesBurned,PreferredWorkoutType,WorkoutTime,GymVisitsPerMonth,SatisfactionScore
+User001,56,Male,VIP,112,648,Cardio,16:07,20,5
+User002,46,Male,Basic,114,379,Strength Training,06:47,20,2
+User003,32,Female,Basic,80,606,Yoga,10:15,18,4
+User004,60,Male,Basic,93,395,Cardio,09:08,14,1
+User005,25,Female,Basic,48,665,Yoga,17:06,18,2
+User006,38,Other,Premium,50,510,HIIT,16:47,28,1
+User007,56,Female,Basic,20,461,Cardio,20:34,14,10
+User008,36,Male,Premium,53,618,Strength Training,07:37,20,10
+User009,40,Female,Basic,56,605,Cardio,12:02,21,4
+User010,28,Female,Premium,72,342,Yoga,06:05,24,4
+User011,28,Female,Basic,26,541,Strength Training,09:14,15,7
+User012,41,Other,Basic,17,515,Strength Training,14:38,22,10
+User013,53,Male,Premium,32,300,Yoga,06:35,30,9
+User014,57,Other,Basic,54,443,Cardio,09:45,4,9
+User015,41,Other,Basic,35,689,HIIT,16:44,13,5
+User016,20,Male,VIP,29,211,Strength Training,14:26,27,10
+User017,39,Male,VIP,111,438,Cardio,09:28,23,1
+User018,19,Male,Basic,113,760,Strength Training,15:17,8,1
+User019,41,Male,Basic,40,241,Yoga,18:55,18,6
+User020,61,Male,Premium,22,793,Cardio,06:48,12,2
+User021,47,Female,Basic,114,628,Yoga,18:10,23,8
+User022,55,Male,Basic,108,357,HIIT,17:27,14,9
+User023,19,Male,Basic,101,415,Cardio,11:17,2,4
+User024,38,Female,Premium,56,661,HIIT,08:13,18,5
+User025,50,Male,Premium,58,333,Cardio,18:21,24,8
+User026,29,Female,Basic,28,266,Cardio,07:05,2,3
+User027,39,Male,Basic,92,206,Cardio,12:06,11,5
+User028,61,Male,Basic,16,725,Yoga,11:54,9,3
+User029,42,Female,Premium,51,272,Strength Training,11:38,12,10
+User030,44,Female,Basic,83,598,Cardio,10:51,17,3
+User031,59,Female,Basic,52,604,Strength Training,06:46,15,3
+User032,45,Female,Premium,55,777,Strength Training,13:34,25,7
+User033,33,Female,Basic,76,329,Cardio,07:59,17,7
+User034,32,Male,Premium,74,665,Yoga,12:05,26,7
+User035,64,Male,Basic,28,405,Yoga,14:18,29,10
+User036,61,Female,Basic,117,465,Strength Training,19:40,26,8
+User037,20,Female,Basic,103,736,HIIT,15:56,18,5
+User038,54,Other,Premium,98,452,Strength Training,19:23,22,5
+User039,24,Male,VIP,16,488,HIIT,15:12,6,4
+User040,38,Male,Premium,117,363,Strength Training,17:04,17,7
+User041,26,Female,Basic,84,294,Strength Training,06:42,23,10
+User042,56,Male,Premium,31,309,Cardio,09:49,24,4
+User043,35,Other,Basic,103,535,Yoga,10:05,18,2
+User044,21,Female,Basic,42,437,Strength Training,19:14,8,4
+User045,42,Male,VIP,80,580,Cardio,19:06,9,8
+User046,31,Female,Basic,49,635,Cardio,12:17,6,9
+User047,26,Female,Basic,115,682,Strength Training,13:40,5,3
+User048,43,Male,Basic,19,224,Strength Training,19:23,12,7
+User049,19,Other,Basic,79,316,Strength Training,08:23,25,9
+User050,37,Female,Basic,54,681,Yoga,11:13,29,4
+User051,45,Female,Premium,90,591,Cardio,16:17,28,10
+User052,64,Male,Basic,70,736,Strength Training,17:59,11,3
+User053,24,Female,VIP,50,278,Cardio,16:41,25,5
+User054,61,Male,Premium,59,779,Yoga,07:38,1,1
+User055,25,Male,Basic,37,372,Yoga,16:10,11,3
+User056,64,Other,Basic,61,211,Strength Training,14:46,19,8
+User057,52,Male,Basic,45,327,Strength Training,09:10,9,8
+User058,31,Male,Premium,25,291,Cardio,13:24,27,4
+User059,34,Other,Basic,24,742,Strength Training,10:59,2,2
+User060,53,Other,Premium,81,731,Yoga,16:44,12,8
+User061,57,Female,Basic,28,646,Strength Training,14:14,4,8
+User062,21,Female,Premium,94,589,Cardio,16:20,4,10
+User063,19,Male,Basic,88,242,Strength Training,19:49,18,4
+User064,23,Male,Basic,107,453,Yoga,18:03,15,3
+User065,59,Male,VIP,24,329,Cardio,09:52,19,2
+User066,21,Female,Premium,90,259,Cardio,06:51,13,9
+User067,46,Female,Basic,108,666,Strength Training,11:25,19,1
+User068,35,Female,VIP,119,486,Yoga,10:04,17,7
+User069,43,Female,Basic,15,716,Cardio,09:58,6,5
+User070,61,Male,VIP,19,666,Cardio,15:56,16,8
+User071,51,Female,Premium,34,544,Cardio,17:20,24,4
+User072,27,Male,Basic,22,581,Cardio,09:41,12,7
+User073,53,Female,Basic,57,452,Strength Training,13:25,19,5
+User074,31,Male,Basic,90,255,Strength Training,20:58,5,5
+User075,48,Female,Premium,15,662,Strength Training,16:29,17,9
+User076,65,Male,Premium,71,656,Strength Training,08:16,26,9
+User077,32,Male,Basic,78,282,Cardio,08:15,23,9
+User078,25,Male,Basic,98,298,Yoga,17:35,26,6
+User079,31,Female,Premium,42,348,Strength Training,14:16,29,6
+User080,40,Female,VIP,51,528,HIIT,17:37,1,5
+User081,57,Male,Premium,61,355,Strength Training,12:57,28,9
+User082,38,Male,Basic,115,389,Cardio,15:25,27,10
+User083,33,Female,Basic,90,693,Strength Training,11:14,25,8
+User084,62,Male,Basic,51,462,Cardio,08:32,24,7
+User085,35,Female,VIP,63,279,Strength Training,13:05,23,7
+User086,64,Female,Basic,58,599,Cardio,18:03,10,6
+User087,41,Male,Premium,70,459,Cardio,19:07,15,5
+User088,43,Male,Basic,42,751,Yoga,08:40,23,4
+User089,42,Other,Premium,93,300,Cardio,08:50,21,3
+User090,62,Male,Premium,20,558,Yoga,16:27,21,3
+User091,58,Male,Premium,75,579,Cardio,15:04,11,6
+User092,46,Female,Basic,34,420,Strength Training,12:24,13,4
+User093,32,Other,Basic,92,619,Strength Training,15:29,5,6
+User094,62,Other,Basic,16,323,Strength Training,14:16,1,3
+User095,18,Female,VIP,87,621,Cardio,14:55,24,4
+User096,42,Male,VIP,51,430,Cardio,06:43,12,9
+User097,24,Male,Premium,34,262,Cardio,17:07,11,5
+User098,26,Female,Premium,40,684,Cardio,16:56,17,7
+User099,41,Female,Premium,43,773,Strength Training,14:48,4,10
+User100,18,Male,Basic,15,682,HIIT,10:49,15,2
+User101,61,Other,VIP,49,718,Yoga,16:21,25,5
+User102,25,Male,Basic,84,354,Yoga,07:18,30,9
+User103,41,Female,Basic,115,291,Yoga,12:10,9,3
+User104,28,Male,Premium,73,725,Strength Training,13:00,21,9
+User105,34,Female,Basic,83,654,Cardio,17:56,20,6
+User106,25,Male,Basic,47,797,HIIT,17:16,19,4
+User107,52,Male,Premium,65,709,Strength Training,14:48,19,7
+User108,52,Male,Basic,92,382,Strength Training,08:32,12,8
+User109,50,Female,Premium,26,585,Cardio,20:06,5,6
+User110,22,Female,Basic,120,773,Strength Training,19:40,10,5
+User111,59,Female,Basic,34,604,Strength Training,10:53,17,6
+User112,56,Other,Basic,67,445,Yoga,16:32,5,5
+User113,58,Male,Basic,102,790,Strength Training,15:12,22,8
+User114,45,Male,Premium,57,670,Cardio,08:23,16,1
+User115,24,Female,Basic,112,622,HIIT,18:10,7,7
+User116,26,Male,Premium,103,264,Cardio,14:49,28,10
+User117,25,Other,Basic,64,212,Strength Training,20:33,9,10
+User118,29,Male,Premium,43,412,Cardio,20:00,3,2
+User119,51,Other,VIP,71,441,Strength Training,15:20,15,9
+User120,50,Male,Premium,53,692,HIIT,13:01,16,1
+User121,65,Female,Basic,109,412,Cardio,07:59,18,10
+User122,40,Female,Basic,70,537,Yoga,11:56,14,6
+User123,41,Other,Basic,57,372,Cardio,19:51,3,9
+User124,54,Male,Premium,64,363,HIIT,10:15,12,1
+User125,52,Female,Basic,37,664,Yoga,06:15,9,4
+User126,61,Other,Basic,58,696,Yoga,20:36,28,4
+User127,57,Female,Premium,52,594,Cardio,07:05,7,9
+User128,39,Female,Basic,98,507,HIIT,17:31,9,5
+User129,44,Female,Premium,37,382,Strength Training,19:04,13,5
+User130,52,Female,Basic,59,709,Cardio,18:34,18,6
+User131,18,Female,Basic,66,745,Yoga,18:08,5,1
+User132,52,Female,Premium,94,763,Cardio,08:42,13,1
+User133,54,Other,Basic,64,793,Yoga,13:35,4,9
+User134,64,Male,Premium,120,426,Cardio,08:16,2,3
+User135,31,Male,Basic,22,635,Strength Training,14:55,16,4
+User136,20,Other,Basic,99,621,Strength Training,15:27,9,1
+User137,18,Female,Premium,15,753,Cardio,09:59,9,9
+User138,22,Female,Premium,22,220,Cardio,14:48,6,8
+User139,43,Female,Premium,43,753,Cardio,17:44,11,2
+User140,31,Male,Basic,110,596,Strength Training,09:45,22,8
+User141,56,Male,Premium,116,304,Cardio,10:25,24,7
+User142,44,Female,Basic,19,391,Strength Training,16:41,22,6
+User143,26,Male,Basic,100,216,Cardio,11:28,1,1
+User144,32,Female,VIP,61,319,Cardio,20:33,4,7
+User145,32,Male,Basic,48,592,Strength Training,13:07,13,10
+User146,43,Other,VIP,79,624,Cardio,09:14,23,7
+User147,59,Other,Basic,69,328,HIIT,07:21,13,9
+User148,30,Female,Basic,104,329,Yoga,06:37,13,1
+User149,49,Female,Premium,57,771,Strength Training,14:14,2,2
+User150,56,Male,VIP,88,759,Strength Training,15:14,9,9
+User151,49,Female,Premium,44,228,Yoga,06:04,24,9
+User152,21,Female,Premium,96,296,Cardio,17:40,8,6
+User153,47,Male,Premium,31,209,Cardio,06:14,7,6
+User154,54,Other,Premium,40,441,Cardio,07:57,4,4
+User155,40,Female,Premium,22,431,Yoga,06:55,18,4
+User156,56,Other,Basic,61,483,Cardio,11:04,3,5
+User157,62,Female,Basic,118,399,Strength Training,14:15,28,3
+User158,32,Female,Basic,90,278,HIIT,10:42,6,1
+User159,60,Male,VIP,105,372,Yoga,13:13,12,1
+User160,46,Other,VIP,86,666,Strength Training,14:08,12,7
+User161,53,Female,Basic,103,780,Cardio,17:59,21,1
+User162,30,Male,Premium,60,615,Yoga,20:36,28,1
+User163,49,Male,VIP,82,648,Strength Training,15:30,8,3
+User164,24,Male,Basic,47,286,Cardio,09:50,22,10
+User165,39,Female,Premium,15,300,Cardio,13:51,22,4
+User166,45,Other,VIP,33,207,HIIT,12:12,1,4
+User167,19,Male,Basic,45,399,Strength Training,07:06,4,2
+User168,59,Female,Premium,94,704,Yoga,16:27,21,1
+User169,62,Male,Basic,28,286,Yoga,11:27,28,3
+User170,23,Other,VIP,67,242,Strength Training,12:29,11,4
+User171,45,Female,VIP,62,584,Strength Training,19:46,3,3
+User172,45,Female,VIP,83,634,Strength Training,06:43,13,8
+User173,61,Female,Basic,119,607,Cardio,16:41,25,10
+User174,61,Male,VIP,104,682,Strength Training,07:03,17,1
+User175,37,Male,Premium,76,216,Yoga,12:46,22,2
+User176,47,Male,Basic,106,347,Strength Training,11:51,22,7
+User177,28,Female,Premium,80,476,Yoga,19:06,10,4
+User178,45,Female,Basic,78,431,Strength Training,09:12,21,8
+User179,42,Other,Premium,84,565,Strength Training,09:34,12,3
+User180,56,Other,Basic,77,427,Strength Training,13:08,15,6
+User181,50,Female,Basic,87,635,Strength Training,12:11,21,9
+User182,18,Female,Basic,47,598,Strength Training,10:29,10,1
+User183,44,Other,Premium,55,410,Cardio,09:55,14,1
+User184,30,Female,Basic,103,590,Strength Training,20:04,13,8
+User185,58,Male,Premium,62,698,Cardio,13:51,5,3
+User186,20,Female,Basic,27,739,Cardio,19:54,6,5
+User187,56,Male,Basic,87,762,Strength Training,14:06,24,1
+User188,23,Other,Premium,91,690,Strength Training,06:41,2,5
+User189,25,Female,Premium,45,641,HIIT,14:53,22,6
+User190,44,Male,Basic,119,460,Strength Training,06:05,17,8
+User191,26,Female,Premium,89,549,Strength Training,20:48,4,3
+User192,54,Female,VIP,82,551,Strength Training,19:15,14,3
+User193,50,Male,Premium,112,719,Strength Training,08:26,10,10
+User194,59,Male,Basic,116,519,Cardio,13:30,3,9
+User195,61,Female,Basic,18,337,Cardio,09:55,25,4
+User196,41,Female,VIP,116,749,Cardio,12:57,3,4
+User197,32,Female,Basic,33,567,Strength Training,06:10,15,7
+User198,49,Female,VIP,84,419,Cardio,12:00,6,2
+User199,49,Female,Premium,112,536,Cardio,12:16,17,8
+User200,41,Female,VIP,96,422,Cardio,20:50,12,6
+User201,58,Female,Premium,27,559,HIIT,18:29,22,3
+User202,29,Female,VIP,119,528,Cardio,10:27,20,9
+User203,56,Male,Basic,37,662,Strength Training,17:46,24,5
+User204,19,Male,Premium,97,760,Cardio,18:35,29,8
+User205,20,Male,Basic,89,581,Strength Training,16:45,11,7
+User206,54,Female,Basic,15,789,Cardio,13:09,25,8
+User207,34,Female,Premium,102,368,Cardio,09:18,4,7
+User208,19,Female,VIP,68,416,Strength Training,09:03,26,3
+User209,19,Male,VIP,85,577,Cardio,15:47,28,2
+User210,45,Male,Premium,103,318,Cardio,14:03,26,7
+User211,40,Male,Basic,99,389,Cardio,17:20,6,3
+User212,54,Male,Basic,29,569,Cardio,06:03,1,3
+User213,49,Female,Premium,79,348,Cardio,15:30,20,2
+User214,50,Male,Basic,90,687,Cardio,14:58,23,4
+User215,18,Male,Basic,85,573,Yoga,19:33,28,8
+User216,36,Other,Basic,29,359,Strength Training,08:03,16,1
+User217,19,Male,Basic,35,550,Strength Training,14:05,15,1
+User218,61,Female,Basic,33,487,Cardio,19:11,17,5
+User219,43,Female,Basic,74,487,HIIT,07:38,8,5
+User220,49,Male,Basic,107,425,Cardio,07:43,28,1
+User221,23,Female,Basic,103,722,Cardio,19:15,26,6
+User222,49,Female,VIP,47,721,Strength Training,12:07,12,1
+User223,21,Other,Basic,63,472,Cardio,20:36,27,5
+User224,28,Male,Basic,110,601,Cardio,09:37,22,9
+User225,34,Other,Premium,49,382,Strength Training,15:02,21,5
+User226,55,Female,Basic,58,687,Yoga,15:05,10,6
+User227,41,Male,VIP,116,323,Strength Training,12:42,27,8
+User228,22,Female,Premium,104,613,Strength Training,15:36,15,1
+User229,51,Other,Basic,25,371,HIIT,14:20,30,2
+User230,23,Female,Basic,113,487,Cardio,20:16,9,9
+User231,39,Male,VIP,86,634,Cardio,09:42,2,3
+User232,28,Female,VIP,92,312,Cardio,17:20,5,6
+User233,65,Male,Basic,88,321,Strength Training,09:16,6,5
+User234,33,Male,Premium,80,743,Strength Training,12:08,7,2
+User235,50,Male,Basic,60,421,HIIT,16:41,21,7
+User236,26,Male,VIP,23,238,Strength Training,10:29,25,4
+User237,23,Male,Basic,17,696,Strength Training,11:59,1,1
+User238,33,Male,VIP,99,432,Cardio,18:59,23,4
+User239,46,Female,Premium,40,729,Yoga,07:00,26,6
+User240,20,Male,Premium,86,348,HIIT,13:39,7,7
+User241,37,Male,Premium,62,596,Yoga,15:06,20,7
+User242,53,Female,Basic,80,501,Cardio,07:34,25,7
+User243,36,Female,Basic,84,559,Strength Training,09:32,30,3
+User244,43,Female,Basic,42,437,Cardio,10:08,12,6
+User245,20,Male,Basic,107,435,Cardio,20:22,16,8
+User246,36,Male,Premium,40,402,Cardio,20:04,16,4
+User247,37,Male,Basic,39,455,Strength Training,20:15,11,8
+User248,49,Male,Basic,26,797,Strength Training,11:18,21,2
+User249,24,Male,VIP,19,434,Cardio,08:28,4,10
+User250,58,Male,VIP,112,544,Cardio,19:34,13,9
+User251,50,Male,VIP,62,733,Strength Training,17:19,7,9
+User252,57,Male,VIP,51,665,Cardio,15:51,4,8
+User253,56,Female,Basic,93,740,Cardio,16:33,15,10
+User254,35,Male,Basic,58,412,Strength Training,06:42,19,10
+User255,57,Male,Premium,114,662,Yoga,19:35,9,1
+User256,18,Female,Premium,29,635,Cardio,10:59,11,2
+User257,28,Female,Basic,57,482,Cardio,16:06,8,6
+User258,45,Male,Premium,62,761,Cardio,20:08,1,10
+User259,42,Female,Basic,101,662,HIIT,10:07,23,5
+User260,40,Female,Basic,84,606,Strength Training,20:06,25,9
+User261,48,Male,Premium,60,287,Strength Training,17:35,24,5
+User262,47,Female,Premium,57,243,Cardio,08:17,8,2
+User263,59,Other,Premium,35,660,Strength Training,10:38,13,10
+User264,52,Male,Basic,37,477,Cardio,09:45,22,4
+User265,24,Male,VIP,94,620,Strength Training,11:13,27,9
+User266,33,Female,Basic,61,552,HIIT,16:40,4,1
+User267,43,Female,Basic,29,714,Strength Training,19:16,8,1
+User268,65,Male,VIP,39,218,Yoga,14:31,3,7
+User269,19,Male,VIP,50,222,Strength Training,10:57,29,3
+User270,18,Male,VIP,89,612,Cardio,20:54,9,10
+User271,65,Female,Premium,65,229,HIIT,06:05,29,2
+User272,29,Female,Premium,29,307,Cardio,16:27,2,9
+User273,22,Male,Premium,82,566,Strength Training,19:17,2,3
+User274,54,Female,Basic,35,480,Cardio,06:00,28,2
+User275,49,Female,Basic,27,327,Cardio,11:49,13,8
+User276,26,Male,Basic,100,428,Strength Training,08:40,15,10
+User277,58,Male,Basic,33,310,Cardio,10:10,28,6
+User278,52,Female,Premium,48,335,Strength Training,17:28,23,6
+User279,36,Female,Basic,92,561,Strength Training,14:45,12,10
+User280,65,Female,Basic,82,385,Cardio,12:35,26,7
+User281,33,Female,Basic,66,783,Cardio,06:07,4,7
+User282,20,Male,Premium,41,328,Strength Training,07:56,26,6
+User283,37,Male,Basic,43,460,Cardio,17:57,8,4
+User284,41,Female,VIP,42,714,Strength Training,08:34,9,9
+User285,50,Male,Basic,49,648,Strength Training,06:53,23,6
+User286,41,Male,Basic,22,303,Yoga,11:37,5,4
+User287,28,Male,Premium,30,682,Strength Training,14:09,24,3
+User288,25,Male,Premium,120,423,Strength Training,12:08,20,4
+User289,53,Male,Basic,50,690,Strength Training,06:19,18,3
+User290,55,Male,Premium,44,672,Cardio,11:57,11,2
+User291,57,Male,Premium,32,209,Cardio,20:50,15,5
+User292,37,Male,Basic,16,604,Yoga,19:02,28,2
+User293,52,Female,VIP,63,501,Strength Training,20:22,22,6
+User294,65,Female,Premium,91,430,Yoga,09:43,9,3
+User295,42,Female,Premium,18,265,Yoga,09:42,17,6
+User296,52,Female,VIP,104,311,Yoga,07:22,27,10
+User297,42,Female,VIP,103,212,HIIT,18:35,26,9
+User298,46,Male,Premium,108,592,Strength Training,20:55,12,1
+User299,35,Female,Premium,89,699,Cardio,12:39,7,6
+User300,63,Female,Premium,21,797,Strength Training,17:09,10,9
+User301,35,Female,Premium,109,433,Cardio,20:59,25,4
+User302,19,Male,Premium,88,513,Strength Training,09:55,26,2
+User303,52,Male,Premium,53,765,Strength Training,08:51,25,4
+User304,33,Male,Basic,27,211,Strength Training,18:11,10,1
+User305,58,Male,VIP,45,408,Cardio,20:26,27,3
+User306,53,Female,VIP,85,213,Cardio,06:11,13,10
+User307,50,Female,Basic,77,617,Strength Training,17:59,19,9
+User308,21,Male,Premium,70,636,Cardio,11:50,11,10
+User309,50,Other,Basic,56,576,Yoga,20:26,13,5
+User310,31,Female,Basic,75,219,Cardio,18:42,21,6
+User311,38,Male,Premium,56,786,Cardio,19:47,8,3
+User312,65,Male,Basic,70,269,Cardio,18:15,8,5
+User313,37,Male,Premium,50,410,Strength Training,10:10,4,8
+User314,25,Male,Premium,98,300,Strength Training,18:44,15,6
+User315,24,Male,Premium,82,331,Cardio,07:24,28,4
+User316,20,Male,Basic,21,580,Cardio,19:02,11,2
+User317,34,Male,Basic,68,331,Strength Training,19:30,11,9
+User318,50,Male,Premium,15,219,Cardio,09:12,1,1
+User319,65,Female,VIP,58,735,Strength Training,19:58,17,1
+User320,29,Male,Premium,59,426,Strength Training,13:22,15,4
+User321,39,Female,Basic,120,353,Cardio,10:52,20,7
+User322,39,Male,Premium,61,668,Cardio,18:55,6,1
+User323,63,Other,Premium,27,604,HIIT,09:14,24,9
+User324,47,Male,Premium,36,401,Strength Training,06:42,22,4
+User325,55,Male,Basic,35,237,Strength Training,09:25,28,3
+User326,55,Other,Premium,100,387,Cardio,11:17,25,1
+User327,62,Female,Premium,106,256,Strength Training,19:04,15,10
+User328,25,Female,VIP,23,219,Cardio,18:17,9,4
+User329,44,Male,Basic,40,472,Strength Training,11:41,14,9
+User330,44,Male,Premium,23,318,HIIT,14:25,18,10
+User331,51,Female,VIP,29,782,Cardio,16:53,26,6
+User332,38,Other,Basic,24,715,Cardio,14:21,17,6
+User333,47,Female,VIP,102,420,Cardio,06:07,18,1
+User334,50,Female,Premium,56,725,Cardio,20:16,5,10
+User335,45,Male,Basic,86,714,Cardio,08:37,20,2
+User336,64,Female,Basic,38,535,Cardio,10:02,20,6
+User337,50,Male,Premium,94,254,Yoga,07:38,9,2
+User338,22,Male,Basic,63,699,Strength Training,12:22,11,3
+User339,65,Male,Premium,40,735,Cardio,17:50,24,4
+User340,36,Female,Basic,105,361,HIIT,11:27,22,5
+User341,21,Male,Premium,51,793,Cardio,15:32,1,9
+User342,52,Male,Basic,82,358,HIIT,07:24,18,4
+User343,34,Female,VIP,64,387,Cardio,20:36,6,9
+User344,61,Male,VIP,38,259,Yoga,09:16,27,10
+User345,45,Female,VIP,33,518,Strength Training,06:45,2,3
+User346,47,Male,Premium,114,410,Yoga,12:00,15,8
+User347,46,Female,Basic,74,605,HIIT,14:59,29,1
+User348,63,Female,Premium,53,308,Cardio,18:34,26,9
+User349,23,Male,Basic,88,275,HIIT,16:46,21,9
+User350,52,Male,Basic,103,741,Cardio,17:47,14,10
+User351,58,Male,Basic,32,513,Cardio,16:12,5,2
+User352,54,Male,Basic,33,316,Cardio,11:27,6,4
+User353,41,Other,Premium,50,218,Strength Training,07:42,6,8
+User354,46,Male,Premium,88,631,Cardio,20:21,30,7
+User355,63,Female,Basic,111,549,Strength Training,15:20,22,1
+User356,48,Male,Basic,69,382,Strength Training,16:54,30,5
+User357,52,Female,VIP,83,312,Yoga,07:46,18,7
+User358,50,Female,Basic,61,382,Yoga,20:19,14,4
+User359,38,Female,Basic,63,680,Strength Training,14:19,10,1
+User360,49,Female,Basic,113,345,Cardio,16:26,14,9
+User361,40,Male,Premium,112,312,Cardio,11:25,13,5
+User362,50,Male,Premium,47,675,Cardio,17:18,30,2
+User363,20,Other,Basic,35,502,Cardio,14:08,3,8
+User364,35,Female,Basic,95,317,Cardio,09:26,30,2
+User365,42,Other,Premium,36,360,Cardio,16:24,6,3
+User366,59,Male,Premium,62,600,HIIT,16:47,29,10
+User367,48,Female,Basic,51,397,Strength Training,20:11,8,1
+User368,20,Other,VIP,29,459,Cardio,15:36,12,2
+User369,57,Male,Basic,49,246,Strength Training,10:25,13,7
+User370,63,Male,Basic,106,598,Cardio,14:53,11,10
+User371,41,Female,VIP,85,758,Strength Training,06:19,12,2
+User372,49,Female,Basic,46,277,Strength Training,10:13,1,6
+User373,64,Female,Premium,25,323,Strength Training,12:50,17,3
+User374,39,Male,Basic,24,274,Strength Training,15:38,16,4
+User375,40,Female,Basic,87,336,HIIT,16:20,11,8
+User376,19,Male,VIP,92,599,Yoga,13:28,13,3
+User377,44,Male,Basic,91,704,Strength Training,13:43,18,10
+User378,59,Male,VIP,71,699,Strength Training,09:32,11,6
+User379,19,Female,Basic,39,772,Strength Training,13:50,28,1
+User380,43,Female,Basic,16,337,Cardio,20:50,12,7
+User381,34,Female,Basic,78,249,Cardio,17:10,6,8
+User382,57,Male,Premium,49,453,Cardio,16:05,9,8
+User383,50,Female,Basic,21,762,Strength Training,10:32,16,3
+User384,26,Male,VIP,99,625,Strength Training,16:40,4,10
+User385,60,Female,Basic,32,746,Cardio,15:21,3,1
+User386,65,Male,VIP,81,501,HIIT,07:52,28,9
+User387,56,Male,Basic,56,780,HIIT,18:15,16,6
+User388,46,Female,VIP,53,548,Strength Training,16:19,24,9
+User389,59,Male,Premium,55,248,Strength Training,09:51,27,7
+User390,43,Female,Premium,89,273,Yoga,09:09,26,1
+User391,52,Female,Premium,117,460,Cardio,06:02,30,1
+User392,42,Male,Premium,38,555,Yoga,09:30,25,6
+User393,41,Female,Premium,74,781,Cardio,15:54,12,5
+User394,30,Male,Basic,60,459,Yoga,18:04,11,9
+User395,24,Female,Basic,33,494,Cardio,13:26,5,2
+User396,53,Other,VIP,82,512,Yoga,20:40,25,8
+User397,62,Female,Premium,104,381,HIIT,15:12,18,5
+User398,37,Male,Premium,116,563,Cardio,17:44,19,2
+User399,18,Other,Basic,56,387,Strength Training,12:31,23,10
+User400,25,Female,Basic,46,768,HIIT,12:15,23,6
+User401,63,Male,Basic,53,742,Strength Training,08:41,6,10
+User402,33,Male,Premium,50,795,Yoga,17:00,22,8
+User403,31,Female,Basic,118,747,Strength Training,20:48,18,4
+User404,29,Female,Basic,115,607,Cardio,19:49,26,2
+User405,40,Female,Basic,111,613,Cardio,20:06,6,5
+User406,32,Female,Basic,50,541,Cardio,18:27,4,2
+User407,45,Female,Premium,17,419,Yoga,09:11,12,2
+User408,51,Male,Basic,87,362,Cardio,18:44,19,6
+User409,19,Male,Premium,22,419,Strength Training,14:29,29,10
+User410,49,Male,Basic,111,469,Strength Training,06:35,27,9
+User411,40,Female,Basic,84,599,Strength Training,09:58,29,4
+User412,39,Male,Basic,55,381,Yoga,19:07,2,6
+User413,42,Female,Basic,117,404,HIIT,13:08,17,7
+User414,39,Female,Basic,82,781,Strength Training,18:29,11,6
+User415,39,Female,Basic,27,755,Yoga,16:33,11,8
+User416,59,Male,Premium,63,427,Yoga,14:38,21,4
+User417,23,Female,Basic,74,795,Strength Training,11:48,16,1
+User418,32,Male,Premium,16,449,HIIT,20:28,2,7
+User419,60,Female,VIP,74,640,Cardio,15:52,2,3
+User420,54,Male,Premium,19,732,Cardio,17:57,23,6
+User421,50,Male,Basic,58,395,Yoga,14:27,8,2
+User422,25,Female,Basic,41,718,Strength Training,19:58,13,9
+User423,61,Male,Basic,46,269,Yoga,14:28,10,1
+User424,61,Male,Basic,35,598,Yoga,20:10,8,6
+User425,22,Female,VIP,22,402,Cardio,17:55,30,6
+User426,56,Female,Basic,116,347,Yoga,13:28,4,5
+User427,21,Female,Basic,86,671,Strength Training,10:48,15,5
+User428,23,Female,Premium,64,398,Strength Training,09:53,30,1
+User429,62,Female,Premium,81,625,Strength Training,16:17,1,10
+User430,49,Male,Premium,58,691,HIIT,18:49,11,5
+User431,47,Male,Basic,72,341,Cardio,14:31,7,2
+User432,64,Male,Basic,17,512,Strength Training,16:15,17,7
+User433,52,Other,Premium,100,364,Strength Training,10:28,27,3
+User434,57,Female,Basic,84,513,Strength Training,07:45,20,4
+User435,33,Male,Basic,16,220,Strength Training,10:15,24,3
+User436,30,Female,Basic,101,281,Cardio,10:21,18,3
+User437,59,Other,Basic,58,780,Cardio,11:57,22,4
+User438,47,Male,Basic,16,330,Cardio,14:05,29,5
+User439,36,Female,Basic,116,798,Yoga,08:09,22,1
+User440,34,Female,Premium,95,504,Cardio,09:24,12,4
+User441,36,Female,Premium,49,570,Cardio,17:09,9,8
+User442,45,Male,Premium,112,583,HIIT,17:13,5,10
+User443,43,Female,Basic,101,644,Cardio,07:26,10,7
+User444,54,Other,Basic,44,624,HIIT,12:21,4,9
+User445,43,Female,Basic,22,360,Strength Training,14:29,5,5
+User446,40,Female,Premium,36,377,Yoga,12:03,28,10
+User447,26,Other,Premium,58,689,Cardio,09:53,28,4
+User448,29,Female,Basic,72,526,Cardio,12:24,10,8
+User449,18,Male,VIP,50,797,Strength Training,20:49,11,9
+User450,18,Female,Basic,83,488,Yoga,15:44,21,7
+User451,64,Female,Premium,91,792,Strength Training,06:54,24,7
+User452,51,Male,Premium,107,772,Cardio,20:48,10,5
+User453,49,Female,VIP,45,772,Yoga,15:24,28,4
+User454,65,Other,Premium,61,553,Yoga,13:00,8,10
+User455,42,Other,Premium,69,227,Strength Training,11:19,2,1
+User456,57,Female,Basic,94,242,Yoga,18:24,23,10
+User457,62,Male,Premium,120,622,Yoga,19:57,8,10
+User458,18,Other,Basic,76,797,Strength Training,19:26,16,7
+User459,33,Female,VIP,44,376,Cardio,14:47,27,1
+User460,56,Male,Premium,69,728,Strength Training,17:34,22,1
+User461,22,Other,Premium,30,693,Cardio,18:38,5,5
+User462,39,Female,Basic,26,397,Strength Training,20:14,27,9
+User463,46,Female,Premium,31,776,Strength Training,13:14,25,6
+User464,20,Female,Premium,30,716,Cardio,10:27,29,3
+User465,29,Male,Premium,26,713,Cardio,13:01,3,3
+User466,43,Male,Basic,22,221,Cardio,12:21,12,7
+User467,33,Male,Basic,98,311,Yoga,16:43,13,6
+User468,54,Female,Basic,17,256,HIIT,18:25,13,9
+User469,39,Male,Basic,30,265,Cardio,17:10,10,6
+User470,46,Male,VIP,44,297,HIIT,19:29,4,5
+User471,31,Male,Basic,37,343,Strength Training,20:08,9,10
+User472,45,Female,VIP,106,634,Cardio,15:34,22,7
+User473,22,Other,Basic,118,285,Cardio,06:58,24,1
+User474,64,Male,Basic,19,787,Strength Training,12:37,23,7
+User475,47,Male,Premium,98,543,Yoga,15:42,27,3
+User476,63,Female,Premium,118,493,Strength Training,06:05,2,9
+User477,22,Female,Basic,79,770,Cardio,16:27,19,6
+User478,29,Male,Premium,44,442,Cardio,08:55,1,9
+User479,33,Female,Premium,35,760,Strength Training,13:11,25,5
+User480,43,Male,Basic,98,231,Cardio,06:16,29,7
+User481,43,Male,VIP,84,590,Cardio,12:20,7,4
+User482,65,Female,VIP,36,476,Cardio,09:29,17,7
+User483,38,Male,Premium,96,731,Yoga,11:21,3,1
+User484,56,Other,Basic,86,353,HIIT,18:56,20,7
+User485,53,Male,Premium,117,582,Strength Training,12:17,20,8
+User486,50,Female,Basic,46,267,HIIT,18:53,21,5
+User487,47,Female,Basic,47,413,Cardio,12:16,30,2
+User488,54,Male,Basic,30,575,Strength Training,19:05,3,5
+User489,40,Female,Basic,90,412,Cardio,13:01,3,6
+User490,27,Male,VIP,52,278,Strength Training,17:34,17,2
+User491,22,Other,Premium,112,580,HIIT,06:22,7,6
+User492,53,Male,Premium,28,257,Strength Training,09:41,27,6
+User493,51,Male,Basic,50,225,Cardio,07:49,26,1
+User494,48,Male,Basic,111,646,Strength Training,16:02,14,1
+User495,27,Other,Basic,37,265,Cardio,18:01,17,10
+User496,36,Female,VIP,80,453,Yoga,09:12,18,3
+User497,49,Female,Basic,119,243,Strength Training,19:01,13,10
+User498,18,Male,VIP,99,296,Strength Training,15:09,20,10
+User499,22,Female,Premium,16,753,Strength Training,09:08,29,3
+User500,62,Male,Basic,105,426,Strength Training,13:42,20,4
